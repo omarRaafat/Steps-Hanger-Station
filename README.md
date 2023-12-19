@@ -2,7 +2,7 @@
 
 Short description or tagline about your Laravel application.
 
-![Project Logo](https://www.mediafire.com/view/gre7u97ih3cinws/stepsWhiteCopy.png/file)
+![Project Logo](https://www.mediafire.com/view/gre7u97ih3cinws/stepsWhiteCopy.png)
 
 ## Table of Contents
 
