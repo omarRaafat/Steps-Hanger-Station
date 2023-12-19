@@ -1,0 +1,17 @@
+version: "3.2"
+services:
+  lara101:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: dockerImage
+    container_name: containerName
+    ports:
+      - 82:80
+    networks:
+      - lara101
+
+networks:
+  lara101:
+    external: false
+   
