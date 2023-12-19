@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="http://www.bagisto.com"><img src="https://erpstak.com/images/stepsWhiteCopy.png" alt="Total Downloads"></a>
+    <a href="http://www.bagisto.com"><img src="https://erpstak.com/images/QrIntable-low.jpg.png" alt="Total Downloads"></a>
 </p>
 
 <p align="center">
