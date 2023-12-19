@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="http://www.bagisto.com"><img src="https://erpstak.com/images/QrIntable-low.jpg.png" alt="Total Downloads"></a>
+    <a href="http://www.bagisto.com"><img src="https://erpstak.com/images/stepsWhiteCopy.png" alt="Total Downloads"></a>
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@ Steps is an electronic platform designed specifically for restaurants and cafes,
 
 The power of headless laravel commerce now comes to  enabling you to experience seamless and easily scalable storefront performance. Backed by some of the hottest tech stacks (Vue and React),  commerce can now be used to build powerful headless commerce solutions offering blazing-fast speed and easy customization powered by Vue Storefront and Next.js
 
-## Vue Storefront
+##  Storefront
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/vue.png)
+![enter image description here](https://erpstak.com/images/QrIntable-low.jpg)
 
 
 # AI Powered eCommerce
